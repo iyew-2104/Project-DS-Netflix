@@ -55,10 +55,10 @@ Task 7: Instructions
 Task 8: Instructions
 - Initialize an empty list called colors to store our different color values.
 - Use a for loop to iterate through the netflix_movies_col_subset DataFrame's rows and append colors to your colors list based on the following conditions:
--- If the genre is "Children", append "red".
--- If the genre is "Documentaries", append "blue".
--- If the genre is "Stand-Up", append "green".
--- If the genre is any other genre, append "black".
+- - If the genre is "Children", append "red".
+- - If the genre is "Documentaries", append "blue".
+- - If the genre is "Stand-Up", append "green".
+- - If the genre is any other genre, append "black".
 - Print the first 10 values of your colors list to inspect the results.
 
 ----------
