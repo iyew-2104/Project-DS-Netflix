@@ -6,9 +6,9 @@ Investigating Netflix Movies and Guest Stars in The Office
 Task 1: Instructions
 Use our friend's data to create a dictionary. To do so, you will need to perform the following steps.
 
-Create a list of years from 2011 to 2020 and a list durations of the average movie lengths our friend provided (103, 101, 99, 100, 100, 95, 95, 96, 93, and 90).
-Create a dictionary movie_dict, with the keys "years" and "durations" and the values set to your lists years and durations.
-Print and inspect the dictionary to ensure it was created correctly.
+- Create a list of years from 2011 to 2020 and a list durations of the average movie lengths our friend provided (103, 101, 99, 100, 100, 95, 95, 96, 93, and 90).
+- Create a dictionary movie_dict, with the keys "years" and "durations" and the values set to your lists years and durations.
+- Print and inspect the dictionary to ensure it was created correctly.
 
 ----------
 
